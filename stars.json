@@ -1,15 +1,15 @@
 [
   {
     "full_name": "taniarascia/takenote",
-    "stargazers_count": 7096,
+    "stargazers_count": 7095,
     "open_issues_count": 83,
     "forks_count": 1319
   },
   {
     "full_name": "krishnadey30/LeetCode-Questions-CompanyWise",
-    "stargazers_count": 18887,
+    "stargazers_count": 18902,
     "open_issues_count": 17,
-    "forks_count": 5438
+    "forks_count": 5441
   },
   {
     "full_name": "AltCamp/altcampv1-backend",
@@ -26,20 +26,20 @@
   {
     "full_name": "firstcontributions/firstcontributions.github.io",
     "stargazers_count": 431,
-    "open_issues_count": 17,
-    "forks_count": 534
+    "open_issues_count": 18,
+    "forks_count": 535
   },
   {
     "full_name": "smartcontractkit/full-blockchain-solidity-course-js",
-    "stargazers_count": 13918,
+    "stargazers_count": 13921,
     "open_issues_count": 104,
     "forks_count": 3279
   },
   {
     "full_name": "scaffold-eth/scaffold-eth",
-    "stargazers_count": 9118,
+    "stargazers_count": 9123,
     "open_issues_count": 2,
-    "forks_count": 3430
+    "forks_count": 3432
   },
   {
     "full_name": "Arndy345/30DaysOfSolidity",
@@ -67,55 +67,55 @@
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 94162,
+    "stargazers_count": 94175,
     "open_issues_count": 117,
-    "forks_count": 12505
+    "forks_count": 12506
   },
   {
     "full_name": "alvarotrigo/fullPage.js",
-    "stargazers_count": 35482,
+    "stargazers_count": 35481,
     "open_issues_count": 127,
-    "forks_count": 7208
+    "forks_count": 7206
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 71906,
+    "stargazers_count": 71918,
     "open_issues_count": 2,
-    "forks_count": 6611
+    "forks_count": 6612
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 104845,
+    "stargazers_count": 104859,
     "open_issues_count": 86,
-    "forks_count": 10678
+    "forks_count": 10679
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 57316,
+    "stargazers_count": 57320,
     "open_issues_count": 18,
     "forks_count": 12323
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 88889,
-    "open_issues_count": 2247,
-    "forks_count": 9818
+    "stargazers_count": 88922,
+    "open_issues_count": 2243,
+    "forks_count": 9814
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 148018,
+    "stargazers_count": 148008,
     "open_issues_count": 182,
-    "forks_count": 26789
+    "forks_count": 26782
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 184158,
+    "stargazers_count": 184181,
     "open_issues_count": 4,
-    "forks_count": 33688
+    "forks_count": 33691
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 82674,
+    "stargazers_count": 82687,
     "open_issues_count": 56,
     "forks_count": 7551
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "Asabeneh/30-Days-Of-React",
-    "stargazers_count": 27247,
+    "stargazers_count": 27254,
     "open_issues_count": 219,
-    "forks_count": 7712
+    "forks_count": 7714
   },
   {
     "full_name": "arghyadeep99/Stegalysis",
@@ -141,6 +141,6 @@
     "full_name": "mikesprague/udacity-nanodegrees",
     "stargazers_count": 6260,
     "open_issues_count": 0,
-    "forks_count": 2187
+    "forks_count": 2185
   }
 ]
